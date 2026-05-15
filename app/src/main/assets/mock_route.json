@@ -1,0 +1,99 @@
+{
+    "train_no": 17225,
+    "train_name": "Amaravathi Express",
+    "status": "Running",
+    "current_location": "Tumakuru",
+    "last_updated": "2026-05-07 10:00 AM",
+    "stops": [
+        {
+            "station_name": "Yesvantpur Jn",
+            "station_code": "YPR",
+            "arrival": "Start",
+            "departure": "15:00",
+            "distance_km": 0,
+            "lat": 13.0236,
+            "lng": 77.5523
+        },
+        {
+            "station_name": "Tumakuru",
+            "station_code": "TK",
+            "arrival": "15:58",
+            "departure": "16:00",
+            "distance_km": 64,
+            "lat": 13.3429,
+            "lng": 77.1017
+        },
+        {
+            "station_name": "Tiptur",
+            "station_code": "TTR",
+            "arrival": "17:04",
+            "departure": "17:05",
+            "distance_km": 135,
+            "lat": 13.2562,
+            "lng": 76.4754
+        },
+        {
+            "station_name": "Arsikere Jn",
+            "station_code": "ASK",
+            "arrival": "17:25",
+            "departure": "17:30",
+            "distance_km": 160,
+            "lat": 13.3135,
+            "lng": 76.2570
+        },
+        {
+            "station_name": "Birur Jn",
+            "station_code": "RRB",
+            "arrival": "18:13",
+            "departure": "18:15",
+            "distance_km": 206,
+            "lat": 13.6268,
+            "lng": 75.9674
+        },
+        {
+            "station_name": "Davangere",
+            "station_code": "DVG",
+            "arrival": "19:53",
+            "departure": "19:55",
+            "distance_km": 320,
+            "lat": 14.4644,
+            "lng": 75.9218
+        },
+        {
+            "station_name": "Harihar",
+            "station_code": "HRR",
+            "arrival": "20:10",
+            "departure": "20:12",
+            "distance_km": 333,
+            "lat": 14.5126,
+            "lng": 75.8117
+        },
+        {
+            "station_name": "Ranibennur",
+            "station_code": "RNR",
+            "arrival": "20:33",
+            "departure": "20:35",
+            "distance_km": 356,
+            "lat": 14.6146,
+            "lng": 75.6260
+        },
+        {
+            "station_name": "Haveri",
+            "station_code": "HVR",
+            "arrival": "21:03",
+            "departure": "21:05",
+            "distance_km": 389,
+            "lat": 14.7931,
+            "lng": 75.4057
+        },
+        {
+            "station_name": "Hubballi Jn",
+            "station_code": "UBL",
+            "arrival": "22:50",
+            "departure": "End",
+            "distance_km": 464,
+            "lat": 15.3458,
+            "lng": 75.1481
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "296443558689",
+    "firebase_url": "https://railubuddy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "railubuddy",
+    "storage_bucket": "railubuddy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296443558689:android:ce1151ad768ded7ab89c60",
+        "android_client_info": {
+          "package_name": "com.example.railubuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzyQgELrcMGpr9QZxGU6_6calp1VnTGzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
