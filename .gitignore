@@ -1,15 +1,70 @@
-*.iml
-.gradle
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# Android Studio
+/.idea/
+*.iml
+
+# Kotlin
+*.kotlin_module
+*.log
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
+
+# Mac files
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Build outputs
+**/build/
+
+# Generated files
+.cxx/
+.externalNativeBuild/
+
+# Firebase config files
+app/google-services.json
+
+# Other local files
 local.properties
+
+# Android Studio captures
+captures/
+
+# Crashlytics
+crashlytics.properties
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# NDK
+obj/
+
+# Coverage
+*.coverage
+
+# Log files
+*.log
+
+# Misc
+*.bak
+*.swp
